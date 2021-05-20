@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk421120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&text=%20)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=#5433FF,#20BDFF,#A5FECB&text=%20)
